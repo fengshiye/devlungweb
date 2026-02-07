@@ -75,14 +75,9 @@ border-width: 0;
 </div>
 </div>
 
-<!-- <h3>Cite us </h3>
-<p>Chen, Xinyue & Huang, Yin & Huang, Ziliang & Xu, Lahong & Huang, Liangfeng & Ye, Mingli & You, Renke & Zhang, Xuegong & Miao, Zhichao*. (2023). Brain Cell Atlas: An Integrative Ensemble of Cell Transcriptomes Across Human Brain Regions. 10.21203/rs.3.rs-3221500/v1.</p>
-<br/> -->
-
 <h3 style="color:#587B39">Cite us </h3>
 <div class="left-aligned" style="width: 100%;">
-Chen, Xinyue & Huang, Yin & Huang, Ziliang & Xu, Lahong & Huang, Liangfeng & Ye, Mingli & You, Renke & Zhang, Xuegong & Miao, Zhichao*. <br>
-<strong style="color:#587B39;font-weight: bold">Brain Cell Atlas: An Integrative Ensemble of Cell Transcriptomes Across Human Brain Regions. 10.21203/rs.3.rs-3221500/v1.</strong><br>
+Chen, X., Huang, Y., Huang, L. et al. <strong style="color:#587B39;font-weight: bold">A brain cell atlas integrating single-cell transcriptomes across human brain regions. 10.1038/s41591-024-03150-z.</strong><br>
 <!-- <a> Unpublished</a> -->
 </div>
 
